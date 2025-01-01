@@ -1,4 +1,4 @@
-## Steps to Run Everything Correctly
+# :rice_ball: Steps to Run Everything Correctly
 
 
 1. Check your Ubuntu version: All steps have been tested on Ubuntu 24.04.1 LTS.
